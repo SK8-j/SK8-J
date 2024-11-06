@@ -37,8 +37,8 @@ Infinite Progress!!
 
 ## 📫 Contact
 
-- **Email**: [SK8-J]1905955545@qq.com
-- **LinkedIn**: [个人主页]SK8-J.github.io
+- **Email**: [SK8-J] 1905955545@qq.com
+- **LinkedIn**: [个人主页] SK8-J.github.io
 
 ---
 
