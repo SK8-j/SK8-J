@@ -24,12 +24,12 @@ I am a graduate student in Management Science and Engineering at Xi'an Jiaotong 
 
 ## 💻 Skills
 
-- **Programming Languages**: Python, HTML, CSS, JavaScript, SQL...
-- **Tools and Frameworks**: Git, VsCode, Flask, Vue, Database ORM Framework, Navicat
+- **Programming Languages**: Python, Transformer, RAG, Prompt Engineering, VUE3, SQL...
+- **Tools and Frameworks**: Git, VsCode, Docker, Flask, Vue, Database ORM Framework, Navicat
 
 ## 📈 Future Plans
 
-I'm not sure whether I will be coding or making products in the future, so for now, I'm just learning it all!
+Work hard towards a big language model engineer! From training models to model fine-tuning to knowledge base, or text vectorization and prompt engineering
 
 ## 🌟 Motto
 
